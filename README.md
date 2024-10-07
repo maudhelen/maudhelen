@@ -1,5 +1,4 @@
 <!-- Banner image -->
-![Banner](https://ibb.co/fqwYjj1)
 
 # Hi, I'm Maud Hovland!
 
