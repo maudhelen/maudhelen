@@ -51,12 +51,6 @@ I'm always eager to collaborate on projects that are at the forefront of technol
 <p> The purpose of the project is to build a program that will use hand gestures for navigation on a computer. For this example, we use it to navigate through Google Maps. We chose to proceed with two different models to compare their performances. </p>
 
 
-## My GitHub Stats
-
-![Maud's GitHub stats](https://github-readme-stats.vercel.app/api?username=maudhelen&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maudhelen&layout=compact&theme=vue)
-
 ## Connect with Me
 
 <!-- Social icons section -->
